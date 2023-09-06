@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is just a normal GitHub repository from an undergraduate Software Engineering student at UTDallas. More updates to follow soon! :D 
 <!--
 **nicodlc/nicodlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
